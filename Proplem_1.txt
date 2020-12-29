@@ -1,0 +1,30 @@
+Munna and Shila are brother and sister. Shilas’ Birthday is on 1st September and Munna’s Birthday is on 10th 
+September. So their parents wants to celebrate their birthday on 6th September as it is in the middle of their 
+birthday and wants to give them some present. Shila has N toys. Munna has double toys than his little sister. 
+On Birthday Party their father and mother gifted them double amount of toys they both have. 
+But unfortunately before the birthday party X amount of toys has been stolen from Munna’s toy box.
+
+How many toys Shila and Munna both have now after their Birthday Party?
+
+
+Input Format:
+You will be given two integer N and X in same line separated by single space.
+
+Constraints:
+1 < N <= 100000000000
+X<2N
+
+Output Format:
+Print the total number of toys Shila and Munna both have after their Birthday Party.
+
+Sample Input 0
+2 1
+
+Sample Output 0
+15
+
+Sample Input 1
+10 6
+
+Sample Output 1
+72
